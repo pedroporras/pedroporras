@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Spotify Playing
+
+[![Spotify](https://novatorem-orpin-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/h7x0ngymc653vg6wur3kya4cn)
