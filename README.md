@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: https://inexpresivo.com/
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm trying to learn Kubernetes and understand how to use it
 <!--
 **pedroporras/pedroporras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
