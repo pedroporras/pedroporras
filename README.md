@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 
 ### Spotify Playing
 
-[![Spotify](https://novatorem-orpin-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/h7x0ngymc653vg6wur3kya4cn)
+[![Spotify](https://novatorem-orpin-alpha.vercel.app/api/orchestrator)](https://open.spotify.com/user/h7x0ngymc653vg6wur3kya4cn)
+
+### Spotify Playing
+
+[![Spotify](https://novatorem-orpin-alpha.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff&show_status=true)](https://novatorem-orpin-alpha.vercel.app/api/orchestrator/redirect)
